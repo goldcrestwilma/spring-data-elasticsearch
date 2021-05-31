@@ -1,8 +1,0 @@
-mcgee/config/ElasticsearchConfig.java
- mcgee.config.ElasticsearchConfig
-mcgee/Application.java
- mcgee.Application
-mcgee/repository/BlogEsRepository.java
- mcgee.repository.BlogEsRepository
-mcgee/model/Blog.java
- mcgee.model.Blog
